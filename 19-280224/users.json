@@ -1,0 +1,32 @@
+{
+    "Kajel": {
+        "username": "Kajel",
+        "email": "",
+        "password": "15265"
+    },
+    "nikto": {
+        "username": "nikto",
+        "email": "sipinda@gmail.com",
+        "password": "password2********1"
+    },
+    "er": {
+        "username": "er",
+        "email": "er",
+        "password": "er"
+    },
+    "as": {
+        "username": "as",
+        "email": "as",
+        "password": "as"
+    },
+    "ea": {
+        "username": "ea",
+        "email": "ea@ea",
+        "password": "ea"
+    },
+    "ad": {
+        "username": "ad",
+        "email": "ad@ad",
+        "password": "ad"
+    }
+}
